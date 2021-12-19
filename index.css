@@ -1,0 +1,18 @@
+* {
+  background-color: gray;
+}
+
+.heading {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-group card img {
+  width: 400px;
+  height: 250px;
+}
+
+.caroimg {
+  height: 400px;
+  width: 250px;
+}
